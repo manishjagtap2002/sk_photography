@@ -1,0 +1,292 @@
+body 
+{
+    display: flex;
+    flex-direction: column;
+    
+    min-height: 100vh;
+    width: 100% ;
+    
+} 
+#sec1{
+    width: 100%;
+    height: 220px;
+     background-image: url("https://images.pexels.com/photos/1939485/pexels-photo-1939485.jpeg?auto=compress&cs=tinysrgb&w=600");
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    gap: 40px  ;
+    background-repeat: no-repeat;
+    background-size: 100% 100% ;
+}
+#div1{
+    /* background-color: aquamarine; */
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+}
+#sk{
+    font-size: 70px;
+    color: rgb(8, 8, 8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#div2{
+    /* background-color: antiquewhite; */
+    width: 100%;
+    height:150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px   ;
+}
+
+#sk1{
+    font-size: 70px;
+    color: rgb(8, 8, 8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+#sec2{
+    background-image: url("..//zzzzz.jpeg");
+    background-size: 100% 100% ;
+    height: 100vh;
+    width: 100%;
+    position:-ms-page;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+#s3d1{
+    width: 100%;
+    height: 1800px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4q4t9BPXdJ7dUCKlrF6eDjJxDoBXl0ZCHvw&s");
+    border: 2px solid rgb(240, 239, 247); 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 10px;
+    gap: 30px  ;
+    
+}
+
+#s3d1d1{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+
+#s3d1d2{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d1d3{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d1d4{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+
+#s3d2{
+    width: 100%;
+    height: 1800px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4q4t9BPXdJ7dUCKlrF6eDjJxDoBXl0ZCHvw&s");
+    border: 2px solid rgb(240, 239, 247); 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 10px;
+    gap: 30px  ;
+    
+}
+
+#s3d2d1{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d2d2{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d2d3{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d2d4{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+
+
+#s3d3{
+    width: 100%;
+    height: 1800px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4q4t9BPXdJ7dUCKlrF6eDjJxDoBXl0ZCHvw&s");
+    border: 2px solid rgb(240, 239, 247); 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 10px;
+    gap: 30px  ;
+    
+}
+
+#s3d3d1{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d3d2{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d3d3{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d3d4{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+
+#s3d4{
+    width: 100%;
+    height: 1800px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4q4t9BPXdJ7dUCKlrF6eDjJxDoBXl0ZCHvw&s");
+    border: 2px solid rgb(240, 239, 247); 
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 10px;
+    gap: 30px  ;
+    
+}
+#s3d4d1{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d4d2{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d4d3{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+#s3d4d4{
+    width: 100%;
+    height: 1600px;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 10px ;
+}
+
+#s3d5{
+    font-size: 40px;
+    text-align: center;
+    color: rgb(19, 19, 18);
+    width: 100%;
+    height: 200px;
+    background-color: antiquewhite;
+    /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJg4UUe3hv60hPijDXHBL5kOWDfPisXBSPw&s"); */
+    border: 2px solid rgb(240, 239, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+#s3d6{
+    font-size: 30px;
+    text-align: center;
+    color: beige;
+    width: 100%;
+    height: 300px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRJg4UUe3hv60hPijDXHBL5kOWDfPisXBSPw&s");
+    border: 2px solid rgb(240, 239, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
